@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="email_hint">Isikan Email</string>
+    <string name="login">Login</string>
+
+    <string-array name="list_spinner">
+        <item>Kucing</item>
+        <item>Marmut</item>
+        <item>Kupu-kupu</item>
+    </string-array>
+
+</resources>
