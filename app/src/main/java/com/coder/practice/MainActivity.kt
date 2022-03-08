@@ -19,4 +19,7 @@ class MainActivity : AppCompatActivity() {
     fun conflictMethodWahyu() {
 
     }
+    fun alrightOwyeah(){
+
+    }
 }
