@@ -28,4 +28,7 @@ class MainActivity : AppCompatActivity() {
     fun addMethodIsna(){
 
     }
+    fun tesKonflik(){
+
+    }
 }
