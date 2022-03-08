@@ -12,4 +12,8 @@ class MainActivity : AppCompatActivity() {
         val name = "Wahyu"
         Log.d("AND-4", "Selamat Pagi $name")
     }
+
+    fun someMethod(){
+
+    }
 }
