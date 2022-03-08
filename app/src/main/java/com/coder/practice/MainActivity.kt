@@ -22,4 +22,7 @@ class MainActivity : AppCompatActivity() {
     fun alrightOwyeah(){
 
     }
+    fun addMethodAldi(){
+
+    }
 }
