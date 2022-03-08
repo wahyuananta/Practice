@@ -16,4 +16,7 @@ class MainActivity : AppCompatActivity() {
     fun someMethod(){
 
     }
+    fun conflictMethodWahyu() {
+
+    }
 }
