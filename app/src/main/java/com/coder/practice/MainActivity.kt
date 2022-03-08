@@ -28,13 +28,4 @@ class MainActivity : AppCompatActivity() {
     fun addMethodIsna(){
 
     }
-    fun addMethodZeti(){
-
-    }
-    fun configZeti(){
-
-    }
-    fun tesKonflik(){
-
-    }
 }
