@@ -25,4 +25,7 @@ class MainActivity : AppCompatActivity() {
     fun addMethodAldi(){
 
     }
+    fun addMethodConflict(){
+
+    }
 }
