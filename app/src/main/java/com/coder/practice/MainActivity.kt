@@ -37,4 +37,7 @@ class MainActivity : AppCompatActivity() {
     fun tesKonflik(){
 
     }
+    fun methodeme(){
+
+    }
 }
