@@ -34,4 +34,7 @@ class MainActivity : AppCompatActivity() {
     fun addMethodZeti(){
 
     }
+    fun configZeti(){
+
+    }
 }
