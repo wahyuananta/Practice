@@ -40,4 +40,8 @@ class MainActivity : AppCompatActivity() {
     fun methodeme(){
 
     }
+
+    fun coba(){
+
+    }
 }
