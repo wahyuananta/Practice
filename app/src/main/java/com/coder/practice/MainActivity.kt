@@ -56,4 +56,7 @@ class MainActivity : AppCompatActivity() {
     fun cobaBranch3(){
 
     }
+    fun cobaBranch34(){
+
+    }
 }
