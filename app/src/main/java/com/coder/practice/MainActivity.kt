@@ -48,4 +48,8 @@ class MainActivity : AppCompatActivity() {
     fun cobaBranch(){
 
     }
+
+    fun cobaBranch2(){
+
+    }
 }
